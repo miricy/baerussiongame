@@ -22,6 +22,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <link rel="apple-touch-startup-image" href="static/splash.png">
 </head>
 <body>
+  <script src="http://m.baidu.com/static/ala/webapp/api.js"></script>
   <!--[if IE]>
     <script src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
     <script>CFInstall.check()</script>
